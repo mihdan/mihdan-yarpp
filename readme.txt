@@ -4,9 +4,10 @@ Author: Adknowledge
 Author URI: http://www.yarpp.com/
 Plugin URI: http://www.yarpp.com/
 Tags: feeds, pages, posts, related, rss, yarpp, ads, multisite, multilingual, thumbnails, related posts, related content
-Requires at least: 3.3
-Tested up to: 4.7
-Stable tag: 4.4
+Requires at least: 4.9
+Tested up to: 5.0
+Requires PHP: 5.4
+Stable tag: 4.5
 License: GPLv2 or later
 
 Display a list of related posts on your site based on a powerful unique algorithm.
@@ -282,6 +283,9 @@ YARPP is currently localized in the following languages:
 * Uzbek (`uz_UZ`) by Ali Safarov of [comfi.com](http://www.comfi.com/)
 
 == Changelog ==
+
+= 4.5 (2018-11-22) =
+* WPCS optimization
 
 = 4.4 =
 * Discontinuing the YARPP Pro service
