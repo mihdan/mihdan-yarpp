@@ -1,12 +1,13 @@
 <?php
-/*----------------------------------------------------------------------------------------------------------------------
-Plugin Name: Yet Another Related Posts Plugin
-Description: Adds related posts to your site and in RSS feeds, based on a powerful, customizable algorithm.
-Version: 4.4
-Author: Adknowledge
-Author URI: http://www.yarpp.com/
-Plugin URI: http://www.yarpp.com/
-----------------------------------------------------------------------------------------------------------------------*/
+/**
+ * Plugin Name: Yet Another Related Posts Plugin
+ * Description: Adds related posts to your site and in RSS feeds, based on a powerful, customizable algorithm.
+ * Version: 4.4
+ * Author: Adknowledge
+ * Author URI: http://www.yarpp.com/
+ * Plugin URI: http://www.yarpp.com/
+ * Contributors: Adknowledge, mihdan
+ */
 
 if(!defined('WP_CONTENT_URL')) define('WP_CONTENT_URL', get_option('siteurl').'/wp-content');
 if(!defined('WP_CONTENT_DIR')){

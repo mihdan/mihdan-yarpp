@@ -1,5 +1,5 @@
 === Yet Another Related Posts Plugin (YARPP) ===
-Contributors: jeffparker
+Contributors: jeffparker, mihdan
 Author: Adknowledge
 Author URI: http://www.yarpp.com/
 Plugin URI: http://www.yarpp.com/
